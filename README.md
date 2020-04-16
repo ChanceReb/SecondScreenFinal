@@ -1,4 +1,4 @@
-# Second Screen Experience     ![](https://i.imgur.com/GjLN4Wf.png)
+# Second Screen Experience  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![](https://i.imgur.com/GjLN4Wf.png)
 ## Brief Overview
 The Second Screen Experience provides Fire TV users the ability to purchase items they see on screen using another android device. The experience is comprised of two applications: SecondScreenTVApp which is deployed on the FireTV and SecondScreenMobileApp which should be installed on an android phone running SDK version 26 (Oreo) or higher. 
 
