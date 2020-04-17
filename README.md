@@ -42,7 +42,7 @@ The Second Screen Experience provides Fire TV users the ability to purchase item
 * Give the lambda function the appropriate permissions
 * Configure your S3 bucket which holds image uploads from mobile app (source bucket) to trigger this lambda function
 ## Notes
-* To develop with this app you must create two S3 buckets. The first bucket will hold images uploaded from the mobile app via TransferUtility. The second bucket will hold the results returned from rekognition that are subsequently downloaded to the mobile app. The visual search functionality is provided by the DeepVision API which requires the user to create datasets in their system. To do this you must acquire an API key, create datasets, and upload data to those datasets via the PA Lambda function. 
+To develop with this app you must create two S3 buckets. The first bucket will hold images uploaded from the mobile app via TransferUtility. The second bucket will hold the results returned from rekognition that are subsequently downloaded to the mobile app. The visual search functionality is provided by the DeepVision API which requires the user to create datasets in their system. To do this you must acquire an API key, create datasets, and upload data to those datasets via the PA Lambda function. 
 ## Contributors
 Mica Geldert\
 Chance Rebholz\
